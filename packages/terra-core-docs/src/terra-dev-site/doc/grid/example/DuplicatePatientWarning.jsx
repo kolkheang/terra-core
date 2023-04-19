@@ -13,7 +13,7 @@ const DuplicatePatientWarning = () => (
         <Grid>
           <Grid.Row>
             <Grid.Column tiny={6}>
-              <div id="DUPLICATE_PATIENT_WARNING_HEADER" tabIndex="0">
+              <div id="DUPLICATE_PATIENT_WARNING_HEADER">
                 <IconError height="1em" width="1em" />
                 <b>
                   {' '}
@@ -25,7 +25,7 @@ const DuplicatePatientWarning = () => (
           </Grid.Row>
           <Grid.Row>
             <Grid.Column tiny={6}>
-              <div id="DUPLICATE_PATIENT_WARNING_TEXT" tabIndex="0">
+              <div id="DUPLICATE_PATIENT_WARNING_TEXT">
                 {' '}
                 {'Try searching for a different patient or cancel to return to the group.'}
               </div>

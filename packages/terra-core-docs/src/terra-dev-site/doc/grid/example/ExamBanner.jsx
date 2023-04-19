@@ -9,32 +9,32 @@ const ExamBanner = () => (
   <Grid>
     <Grid.Row>
       <Grid.Column tiny={4}>
-        <Text tabindex="0">Name of Procedure</Text>
+        <Text>Name of Procedure</Text>
       </Grid.Column>
       <Grid.Column tiny={4}>
-        <Text tabindex="0">01-01-2020 00:00am</Text>
+        <Text>01-01-2020 00:00am</Text>
       </Grid.Column>
       <Grid.Column tiny={4}>
-        <Text tabindex="0">CT-20-01</Text>
+        <Text>CT-20-01</Text>
       </Grid.Column>
     </Grid.Row>
     <Grid.Row>
       <Grid.Column tiny={4}>
-        <Text tabindex="0">Ordered By: Mock Physician</Text>
+        <Text>Ordered By: Mock Physician</Text>
       </Grid.Column>
       <Grid.Column tiny={4}>
-        <Text tabindex="0">Priority: STAT</Text>
+        <Text>Priority: STAT</Text>
       </Grid.Column>
       <Grid.Column tiny={4}>
-        <Text tabindex="0">Report Status: Report Status</Text>
+        <Text>Report Status: Report Status</Text>
       </Grid.Column>
     </Grid.Row>
     <Grid.Row>
       <Grid.Column tiny={8}>
-        <Text tabindex="0">Reason for Exam: A good reason</Text>
+        <Text>Reason for Exam: A good reason</Text>
       </Grid.Column>
       <Grid.Column tiny={4}>
-        <Text tabindex="0">Linked: --</Text>
+        <Text>Linked: --</Text>
       </Grid.Column>
     </Grid.Row>
   </Grid>

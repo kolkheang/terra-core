@@ -6,7 +6,7 @@ const GridDefaultNoOptions = () => (
   <Grid>
     <Grid.Row>
       <Grid.Column>
-        <div className="terra-grid-example" tabindex="0">Span all columnn content</div>
+        <div className="terra-grid-example">Span all columnn content</div>
       </Grid.Column>
     </Grid.Row>
   </Grid>
